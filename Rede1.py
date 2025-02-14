@@ -44,7 +44,6 @@ resultado_comparacao = pd.DataFrame({
 
 # Imprimir a comparação
 print(resultado_comparacao)
-sds = 3
 
 import matplotlib.pyplot as plt
 
