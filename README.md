@@ -1,0 +1,1 @@
+Overfeet: quando o modelo foi treinado e apresenta resultados bons porém ao treinalo com novos dados ele não vai bem.
